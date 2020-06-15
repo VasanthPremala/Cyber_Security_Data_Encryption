@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from Crypto import Random
 from Crypto.Cipher import AES
 import os
@@ -197,12 +191,3 @@ if __name__ == '__main__':
             break
         else:
             print("Enter proper choice")
-
-       
-
-
-# In[ ]:
-
-
-
-
